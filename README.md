@@ -78,3 +78,22 @@ Este repositório contém o código e os recursos relacionados ao curso "Introdu
 - **Formatando tempo em Go**: Formatação de data e hora em Go.
 - **Mãos na Massa: Guardando os Logs**: Implementação de um sistema de registro de logs.
 - **Conclusão**: Resumo do curso e próximos passos.
+
+# Instruções para executar o projeto
+
+## Instalar e Configurar o Go
+
+[https://golang.org/doc/install](https://golang.org/doc/install)
+
+## Clonar o projeto
+
+```bash
+git clone git@github.com:medeiroz/course-golang-introduction.git
+```
+
+## Executar o projeto
+
+```bash
+cd course-golang-introduction
+go run main.go
+```
